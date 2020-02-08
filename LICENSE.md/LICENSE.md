@@ -1,1 +1,0 @@
-# coredb.io License
